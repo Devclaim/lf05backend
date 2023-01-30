@@ -99,8 +99,6 @@ g
 7src/main/java/data_access_object/RezeptZutatAnzahl.java,1\5\1556065cac9f287de3b9ab33bf408ece2c03f98e
 \
 ,src/main/java/data_access_object/Rezept.java,3\e\3e4ccffff860dc5b5430797a0843c5278520e211
-`
-0src/main/java/data_access_object/Naehrwerte.java,d\d\dd9aeb8d42fdfedb72e661b9cc0e07e9d454cdc4
 e
 5src/main/java/data_access_object/Bestellungzutat.java,d\a\da129a4f1d85a0a73c3268ede8e29512a3662ef5
 j
@@ -152,8 +150,6 @@ h
 -src/main/java/database/db/zutat/GetZutat.java,4\e\4e29047c378bffe07ab7e762c7e1b6465e5aa903
 ]
 -src/main/java/database/db/zutat/ZutatDAO.java,0\5\051e5932bf4fe568d08d58686399ec3cad06c3e0
-s
-Csrc/main/java/database/db/bestellungskunde/BestellungskundeDAO.java,e\9\e9f643f2464d07ded218d685210b4f500836e749
 <
 build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
 f
