@@ -19,6 +19,10 @@
 ### Frontend:
 https://github.com/Devclaim/lf05frontend
 
+## Dependencies
+### Java JDK 17.0.4 or later
+[Java JDK Archive](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+
 ## Queries
 
 ### Kunden
